@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: >-
+  Reinforcment-Learning-for-Dynamic-Sorting-in-Intelligent-Manufacturing
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Todd
+    family-names: Charter
+    email: toddch@uvic.ca
+    affiliation: University of Victoria
+    orcid: 'https://orcid.org/0000-0001-5982-255X'
